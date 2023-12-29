@@ -7,7 +7,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -41,11 +40,6 @@ To take the screenshots I used the `windows` + `Prnt Scrn` shortchut.
 #### Mobile
 
 ![Mobile](./solution-screenshots/mobile.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
